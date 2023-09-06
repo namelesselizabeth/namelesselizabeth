@@ -14,7 +14,8 @@
 <img height=40 src="https://img.shields.io/badge/MPG-B550_Gaming_Carbon_WiFi-red?style=for-the-badge&logo=msi&color=%23FF0000"></br>
 <img height=40 src="https://img.shields.io/badge/Corsair-Vengeance RGB PRO 16 GB-%23ffd900?style=for-the-badge&logo=corsair"></br>
 <img height=40 src="https://img.shields.io/badge/BarraCuda-2%20TB-%236EBE49?style=for-the-badge&logo=seagate"></br>
-
+<img height=40 src="https://img.shields.io/badge/ID--COOLING-Pinkflow_240-orange?style=for-the-badge"></br>
+<img height=40 src="https://img.shields.io/badge/Samsung-970_Evo_Plus_SSD_1_TB-black?style=for-the-badge&logo=samsung&color=silver"></br>
 
 <!--
 **namelesselizabeth/namelesselizabeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
