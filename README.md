@@ -8,6 +8,8 @@
 :video_game: I'm a casual gamer and would love to code my own game some day</br>
 📫 How to reach me: <a href=”mailto:elizabethgrajeda444@gmail.com”>elizabethgrajeda444@gmail.com</a>
 
+##My Workspace:
+![Static Badge](https://img.shields.io/badge/Ryzen_5-5600X-red?style=for-the-badge&logo=amd&color=%23ED1C24)
 
 <!--
 **namelesselizabeth/namelesselizabeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
