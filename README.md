@@ -1,6 +1,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Elizabeth!
 
-How to reach me: <a href=”mailto:namelesselizabeth@gmail.com”>namelesselizabeth@gmail.com</a>
+How to reach me: <a href=”mailto:elizabethgrajeda444@gmail.com”>elizabethgrajeda444@gmail.com</a>
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&link=www.linkedin.com%2Fin%2Felizabeth-grajeda-2933a31b1)
 
 <!--
 **namelesselizabeth/namelesselizabeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
