@@ -13,7 +13,7 @@
 <img height=40 src="https://img.shields.io/badge/Radeon-RX_6700_XT-red?style=for-the-badge&logo=amd&color=%23ED1C24"></br>
 <img height=40 src="https://img.shields.io/badge/MPG-B550_Gaming_Carbon_WiFi-red?style=for-the-badge&logo=msi&color=%23FF0000"></br>
 <img height=40 src="https://img.shields.io/badge/Corsair-Vengeance RGB PRO 16 GB-%23ffd900?style=for-the-badge&logo=corsair"></br>
-<img height=40 src="https://img.shields.io/badge/BarraCuda-2%2TB-%236EBE49?style=for-the-badge&logo=seagate"></br>
+<img height=40 src="https://img.shields.io/badge/BarraCuda-2%20TB-%236EBE49?style=for-the-badge&logo=seagate"></br>
 
 
 <!--
