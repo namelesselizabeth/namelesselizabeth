@@ -9,7 +9,12 @@
 📫 How to reach me: <a href=”mailto:elizabethgrajeda444@gmail.com”>elizabethgrajeda444@gmail.com</a>
 
 ##My Workspace:
-![Static Badge](https://img.shields.io/badge/Ryzen_5-5600X-red?style=for-the-badge&logo=amd&color=%23ED1C24)
+<img height=40 src="https://img.shields.io/badge/Ryzen_5-5600X-red?style=for-the-badge&logo=amd&color=%23ED1C24"></br>
+<img height=40 src="https://img.shields.io/badge/Radeon-RX_6700_XT-red?style=for-the-badge&logo=amd&color=%23ED1C24"></br>
+<img height=40 src="https://img.shields.io/badge/MPG-B550_Gaming_Carbon_WiFi-red?style=for-the-badge&logo=msi&color=%23FF0000"></br>
+<img height=40 src="https://img.shields.io/badge/Corsair-Vengeance RGB PRO 16 GB-%23ffd900?style=for-the-badge&logo=corsair"></br>
+<img height=40 src="https://img.shields.io/badge/BarraCuda-2%2TB-%236EBE49?style=for-the-badge&logo=seagate"></br>
+
 
 <!--
 **namelesselizabeth/namelesselizabeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
