@@ -1,7 +1,5 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Elizabeth!
 
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=www.linkedin.com%2Fin%2Felizabeth-grajeda-2933a31b1">
-
 :school: I'm finishing up my asssociates in Computer Programming at Moreno Valley College</br>
 :fountain_pen: I'm currently working on my final two coding projects</br>
 :computer: Fun fact: I built my PC two years ago and that got me here! </br>
