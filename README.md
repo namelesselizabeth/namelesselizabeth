@@ -1,4 +1,6 @@
-### Hi there 👋
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Elizabeth!
+
+How to reach me: <a href=”mailto:namelesselizabeth@gmail.com”>namelesselizabeth@gmail.com</a>
 
 <!--
 **namelesselizabeth/namelesselizabeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
