@@ -1,7 +1,6 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Elizabeth!
 
-https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=!%5BStatic%20Badge%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FLinkedIn-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26link%3Dwww.linkedin.com%252Fin%252Felizabeth-grajeda-2933a31b1)
-
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=!%5BStatic%20Badge%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FLinkedIn-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26link%3Dwww.linkedin.com%252Fin%252Felizabeth-grajeda-2933a31b1)">
 
 
 :school: I'm finishing up my asssociates in Computer Programming at Moreno Valley College</br>
